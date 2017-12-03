@@ -1,0 +1,19 @@
+<resources>
+    <string name="title_activity_login">로그인</string>
+    <string name="title_activity_signup">회원가입</string>
+    <string name="title_activity_restaurant_list">맛집 찾기</string>
+    <string name="title_activity_restaurant_register">맛집 등록</string>
+    <string name="title_activity_user_info">유저 정보</string>
+    <string name="title_activity_user_edit">유저 정보 수정</string>
+
+    <string name="prompt_username">아이디</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="prompt_password_confirm">비밀번호 확인</string>
+    <string name="prompt_name">이름</string>
+    <string name="prompt_phone">휴대폰 번호</string>
+    <string name="prompt_gender">성별</string>
+    <string name="prompt_age">나이</string>
+    <string name="prompt_image">프로필 이미지</string>
+    <string name="action_login">로그인</string>
+    <string name="action_signup">회원가입</string>
+</resources>
